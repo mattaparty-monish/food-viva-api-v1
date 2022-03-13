@@ -4,34 +4,39 @@
         "name": "South Indian Recipes",
         "imageCover": "https://miro.medium.com/max/1400/1*InlgltnGNwj7W93dJ_oQ_g.jpeg",
         "summary": "South Indian cuisine usually encompasses the five Southern states of Karnataka, Andhra Pradesh, Tamilnadu, Telangana, and Kerala. Both the geography and cultural influence of the South has an influence on the region's cuisine. As with most countries, there are large regional differences and each state's cuisine can vary greatly even within a specific state. There are typically vegetarian and non-vegetarian dishes for all five states. Additionally, all regions have typical main dishes, snacks, light meals, desserts, and drinks that are well-known in their respective region.",
-        "region": "South Indian"
+        "region": "South Indian",
+        "regionURL": "/regional-recipes/south-indian-recipes"
     },
     {
         "_id": 2,
         "name": "North Indian Recipes",
         "imageCover": "https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2020/10/North-Indian-Food-Top-10-Must-Eat-Local-Dishes.jpg?w=1024&ssl=1",
         "summary": "North Indian curries usually have thick, moderately spicy and creamy gravies. The use of dried fruits and nuts is fairly common even in everyday foods. Dairy products like milk, cream, cottage cheese, ghee (clarified butter) and yogurt play an important role in the cooking of both savory and sweet dishes. Thanks to the fact that such a rich variety of fruit and vegetable is available at all times of the year, the region produces a dazzling array of vegetarian dishes.",
-        "region": "North Indian"
+        "region": "North Indian",
+        "regionURL": "/regional-recipes/north-indian-recipes"
     },
     {
         "_id": 3,
         "name": "Maharashtrian Recipes",
         "imageCover": "https://curlytales.com/wp-content/uploads/2019/11/images-9-7.jpg",
         "summary": "Maharashtrian cuisine includes mild and spicy dishes. Wheat, rice, jowar, bajri, vegetables, lentils and fruit are dietary staples. Peanuts and cashews are often served with vegetables. Meat was traditionally used sparsely or only by the well off until recently, because of economic conditions and culture.",
-        "region": "Maharashtrian"
+        "region": "Maharashtrian",
+        "regionURL": "/regional-recipes/maharashtrian-recipes"
     },
     {
         "_id": 4,
         "name": "Punjabi Recipes",
         "imageCover": "https://drishtidarshan.com/wp-content/uploads/2021/02/punjabi-food-festival.jpg",
         "summary": "Punjabi cuisine is known for its rich, buttery flavours along with the extensive vegetarian and meat dishes. One of its main features is its diverse range of dishes. Restaurant-style dishes use large amounts of ghee and butter. Some food items are eaten daily while some delicacies are cooked only on special occasions.",
-        "region": "Punjabi"
+        "region": "Punjabi",
+        "regionURL": "/regional-recipes/punjabi-recipes"
     },
     {
         "_id": 5,
         "name": "Gujarati Recipes",
         "imageCover": "https://touristinformationcenter.net/wp-content/uploads/2021/08/Food-of-Gujarat.jpg",
         "summary": "Gujarati food originated from Gujarat, the western coastline state of India, often referred to as 'Jewel of Western India'. Although the long coastline ensures huge variety of seafood, the influence of Jain culture and philosophy makes the region a predominantly vegetarian barring some communities who incorporate non-vegetarian items such as goat, chicken, eggs and seafood in their platter. Gujarati cuisines are not only varied and lip smacking but also high in nutritional value.",
-        "region": "Gujarati"
+        "region": "Gujarati",
+        "regionURL": "/regional-recipes/gujarati-recipes"
     }
 ]
